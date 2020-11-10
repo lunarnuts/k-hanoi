@@ -35,5 +35,4 @@ Move disk 1 from Peg 1 to Peg 4 (Legal)
 
 State of Peg 4 (Top to Bottom): 1 2 3 4 5 6
 Number of Steps = 17
-************\_************```
-````
+```
