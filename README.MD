@@ -44,3 +44,5 @@ Number of Steps = 17
 
 Program is provided with Makefile, to compile it simply type "make -f Makefile" in cmd if you have cmake or make installed.
 This will generate executable file name "K Peg Tower of Hanoi"
+
+![](https://komarev.com/ghpvc/?username=lunarnuts/k-hanoi)
